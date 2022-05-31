@@ -2,11 +2,11 @@ import { Component } from '@angular/core';
 import { ServiceblogService } from '../blog/blog-service.service';
 
 @Component({
-  selector: 'app-about',
-  templateUrl: './about.component.html',
-  styleUrls: ['./about.component.css']
+  selector: 'app-auth',
+  templateUrl: './auth.component.html',
+  styleUrls: ['./auth.component.css']
 })
-export class AboutComponent {
+export class AuthComponent {
   constructor(public service:ServiceblogService) {
     this.service.showEdit=false;
   }

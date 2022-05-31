@@ -9,6 +9,8 @@ import { HttpClientModule } from '@angular/common/http';
 import { AppsComponent } from './apps.component';
 import { BlogComponent } from './blog/blog.component';
 import { AboutComponent } from './about/about.component';
+import { AuthComponent } from './auth/auth.component';
+import { RegComponent } from './reg/reg.component';
 import { BlogDetailComponent } from './blog/blog-detail/blog-detail.component';
 
 import { ServiceblogService } from './blog/blog-service.service';
@@ -26,6 +28,8 @@ import { FooterComponent } from './shared/footer/footer.component';
     AppsComponent,
     BlogComponent,
     AboutComponent,
+    AuthComponent,
+    RegComponent,
     BlogDetailComponent,
     RelayOnComponent,
     TopContentComponent,
