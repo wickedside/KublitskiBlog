@@ -26,7 +26,7 @@ export class BlogComponent implements OnInit {
   }
 
   loginClick() {
-    this.router.navigate(['/login']);
+    this.router.navigate(['/auth']);
   }
 
   newPost() {

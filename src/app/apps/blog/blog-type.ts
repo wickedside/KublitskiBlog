@@ -6,4 +6,5 @@ export class Blog {
   subHeading: string = '';
   blogDate: string = '';
   blogDetail: string = '';
+  tags: string = '';
 }
