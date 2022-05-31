@@ -15,9 +15,9 @@ export const blogs: Blog[] = [
     id: 2,
     image: '',
     video: '',
-    heading: 'Dolore pariatur amet ullamco aliquip mollit aliqua qui.',
+    heading: 'Заглушка',
     subHeading:
-      'Eiusmod ipsum do dolore fugiat consequat quis non qui velit consectetur velit.',
+      'Описание',
     blogDate: 'Апрель 28, 2022',
     blogDetail:
       'Tempor sint cupidatat cillum do ut. Ipsum exercitation est ex id. Sunt ut labore ad nulla.',
@@ -27,9 +27,9 @@ export const blogs: Blog[] = [
     image: '',
     video: '',
     heading:
-      'Velit esse dolor dolor qui cillum velit in quis exercitation occaecat.',
+      'Заглушка',
     subHeading:
-      'Adipisicing sit minim occaecat nulla proident exercitation do laboris.',
+      'Описание',
     blogDate: 'Май 05, 2022',
     blogDetail:
       'Laboris culpa ea est et aliqua amet ullamco Lorem non enim laborum incididunt ex Lorem. Minim sint cupidatat magna esse labore id. Do qui incididunt consectetur nulla aliquip consequat nostrud incididunt occaecat ad. Excepteur nulla adipisicing enim ea occaecat fugiat dolore sunt est et. Eu veniam nostrud sit aute consectetur dolore ipsum fugiat anim duis.',
@@ -39,8 +39,8 @@ export const blogs: Blog[] = [
     image: '',
     video: '',
     heading:
-      'Magna nostrud incididunt cupidatat cillum incididunt et nisi in ut minim reprehenderit.',
-    subHeading: 'Labore irure irure laborum quis tempor aliqua. Dude',
+      'Заглушка',
+    subHeading: 'Описание',
     blogDate: 'Май 19, 2022',
     blogDetail:
       'Est ipsum sint officia quis nulla nisi cupidatat aliquip nisi laboris eiusmod eiusmod aliquip do. Commodo elit excepteur occaecat irure Lorem sit nulla nulla sint duis incididunt. Nostrud ut do mollit et amet velit aute excepteur et culpa culpa velit. Cillum veniam officia anim cupidatat.',
