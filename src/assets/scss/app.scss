@@ -56,7 +56,8 @@ a.white-link{
     }
 }
 .img-responsive {
-    width: 100%;
+    aspect-ratio: 270/400;
+    width: 52%;
     height: auto;
     display: inline-block;
 }
