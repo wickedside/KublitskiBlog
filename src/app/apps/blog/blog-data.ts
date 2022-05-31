@@ -13,14 +13,13 @@ export const blogs: Blog[] = [
   },
   {
     id: 2,
-    image: '',
+    image: 'assets/images/blog/2.png',
     video: '',
-    heading: 'Заглушка',
-    subHeading:
-      'Описание',
+    heading: 'Мои хобби',
+    subHeading: '',
     blogDate: 'Апрель 28, 2022',
     blogDetail:
-      'Tempor sint cupidatat cillum do ut. Ipsum exercitation est ex id. Sunt ut labore ad nulla.',
+      'Я увлекаюсь борьбой самбо (занимался до поступления в универ 3 года) и сейчас занимаюсь в университете вместо физкультуры. Также мне нравится ЯП C++ и мне нравится делать лабораторные задачи в универе. Увлекаюсь играми и люблю находить адреса и менять в их памяти различные числа пока что-нибудь прикольное не случится.',
   },
   {
     id: 3,
